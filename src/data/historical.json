@@ -1,0 +1,242 @@
+[
+  {
+    "year": 2000,
+    "technology": "wind",
+    "Actual": 0.002
+  },
+  {
+    "year": 2001,
+    "technology": "wind",
+    "Actual": 0.0025
+  },
+  {
+    "year": 2002,
+    "technology": "wind",
+    "Actual": 0.0032
+  },
+  {
+    "year": 2003,
+    "technology": "wind",
+    "Actual": 0.0038
+  },
+  {
+    "year": 2004,
+    "technology": "wind",
+    "Actual": 0.0048
+  },
+  {
+    "year": 2005,
+    "technology": "wind",
+    "Actual": 0.0056
+  },
+  {
+    "year": 2006,
+    "technology": "wind",
+    "Actual": 0.0069
+  },
+  {
+    "year": 2007,
+    "technology": "wind",
+    "Actual": 0.0085
+  },
+  {
+    "year": 2008,
+    "technology": "wind",
+    "Actual": 0.0108
+  },
+  {
+    "year": 2009,
+    "technology": "wind",
+    "Actual": 0.0136
+  },
+  {
+    "year": 2010,
+    "technology": "wind",
+    "Actual": 0.0155
+  },
+  {
+    "year": 2011,
+    "technology": "wind",
+    "Actual": 0.0191
+  },
+  {
+    "year": 2012,
+    "technology": "wind",
+    "Actual": 0.0224
+  },
+  {
+    "year": 2013,
+    "technology": "wind",
+    "Actual": 0.0266
+  },
+  {
+    "year": 2014,
+    "technology": "wind",
+    "Actual": 0.0288
+  },
+  {
+    "year": 2015,
+    "technology": "wind",
+    "Actual": 0.0325
+  },
+  {
+    "year": 2016,
+    "technology": "wind",
+    "Actual": 0.0364
+  },
+  {
+    "year": 2017,
+    "technology": "wind",
+    "Actual": 0.0412
+  },
+  {
+    "year": 2018,
+    "technology": "wind",
+    "Actual": 0.0445
+  },
+  {
+    "year": 2019,
+    "technology": "wind",
+    "Actual": 0.0486
+  },
+  {
+    "year": 2020,
+    "technology": "wind",
+    "Actual": 0.0544
+  },
+  {
+    "year": 2021,
+    "technology": "wind",
+    "Actual": 0.0616
+  },
+  {
+    "year": 2022,
+    "technology": "wind",
+    "Actual": 0.0659
+  },
+  {
+    "year": 2023,
+    "technology": "wind",
+    "Actual": 0.07
+  },
+  {
+    "year": 2000,
+    "technology": "solar",
+    "Actual": 0.0001
+  },
+  {
+    "year": 2001,
+    "technology": "solar",
+    "Actual": 0.0001
+  },
+  {
+    "year": 2002,
+    "technology": "solar",
+    "Actual": 0.0001
+  },
+  {
+    "year": 2003,
+    "technology": "solar",
+    "Actual": 0.0001
+  },
+  {
+    "year": 2004,
+    "technology": "solar",
+    "Actual": 0.0001
+  },
+  {
+    "year": 2005,
+    "technology": "solar",
+    "Actual": 0.0002
+  },
+  {
+    "year": 2006,
+    "technology": "solar",
+    "Actual": 0.0003
+  },
+  {
+    "year": 2007,
+    "technology": "solar",
+    "Actual": 0.0004
+  },
+  {
+    "year": 2008,
+    "technology": "solar",
+    "Actual": 0.0006
+  },
+  {
+    "year": 2009,
+    "technology": "solar",
+    "Actual": 0.001
+  },
+  {
+    "year": 2010,
+    "technology": "solar",
+    "Actual": 0.0015
+  },
+  {
+    "year": 2011,
+    "technology": "solar",
+    "Actual": 0.0029
+  },
+  {
+    "year": 2012,
+    "technology": "solar",
+    "Actual": 0.0043
+  },
+  {
+    "year": 2013,
+    "technology": "solar",
+    "Actual": 0.0059
+  },
+  {
+    "year": 2014,
+    "technology": "solar",
+    "Actual": 0.0076
+  },
+  {
+    "year": 2015,
+    "technology": "solar",
+    "Actual": 0.01
+  },
+  {
+    "year": 2016,
+    "technology": "solar",
+    "Actual": 0.0127
+  },
+  {
+    "year": 2017,
+    "technology": "solar",
+    "Actual": 0.0165
+  },
+  {
+    "year": 2018,
+    "technology": "solar",
+    "Actual": 0.0204
+  },
+  {
+    "year": 2019,
+    "technology": "solar",
+    "Actual": 0.0247
+  },
+  {
+    "year": 2020,
+    "technology": "solar",
+    "Actual": 0.0299
+  },
+  {
+    "year": 2021,
+    "technology": "solar",
+    "Actual": 0.0363
+  },
+  {
+    "year": 2022,
+    "technology": "solar",
+    "Actual": 0.0444
+  },
+  {
+    "year": 2023,
+    "technology": "solar",
+    "Actual": 0.0534
+  }
+]
