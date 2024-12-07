@@ -158,8 +158,8 @@ export default function ProjectionTool() {
       position: 'insideLeft',
       offset: 0,
       style: {
-	textAnchor: 'middle',
-	}
+        textAnchor: 'middle',
+      }
     }}
     />
       <Tooltip formatter={(value) => (value ? value.toFixed(2) + '%' : 'No data')} />
@@ -184,6 +184,7 @@ export default function ProjectionTool() {
     strokeWidth={0}
     dot={{ r: 4, fill: '#000000' }}
     data={data.historical}
+    isAnimationActive={false}
     />
       
       {/* Line for Out-of-Sample Actual Data with Hollow Dots */}
